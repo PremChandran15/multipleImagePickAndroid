@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#eeeeee"
+                android:padding="5dp">
+
+    <!-- Grid View fr Custom Gallery  -->
+    <include
+        android:id="@+id/galleryImagesGridView"
+        layout="@layout/gridview_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/selectImagesBtn" />
+
+    <!-- Button to return Selected Images  -->
+    <Button
+        android:id="@+id/selectImagesBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="5dp"
+        android:background="#009688"
+        android:textColor="#ffffff"
+        android:textSize="15sp"
+        android:visibility="gone"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Photos available in the gallery, please either take photos with camera or download some pictures into this tab."
+        android:id="@+id/noPhotosTextView"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:layout_margin="8dp"
+        android:textColor="@color/colorDarkGrey"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        />
+</RelativeLayout>
+

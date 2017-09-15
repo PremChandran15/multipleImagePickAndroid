@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Multiple Image Pick</string>
+
+    <!--Alert Dialog UploadPhotosButton -->
+    <string name="photo_upload_dialog_message">Current photos will be uploaded to server. Checked that all PHOTOS correspond to the respective test as in dropdown? if not press Cancel to re-check.</string>
+
+    <!--Alert Dialog Upload More Photos Button -->
+    <string name="uploadmore_dialog_title">Upload More Photos?</string>
+    <string name="uploadmore_dialog_message">Photos successfuly uploaded. Do you want to upload more photos?</string>
+    <string name="uploadmore_dialog_ok_button">Yes, take me to Gallery</string>
+    <string name="uploadmore_dialog_cancel_button">No, all done for this test</string>
+
+    <!--Alert Dialog UploadChecklistButton -->
+    <string name="upload_dialog_title">Upload to server?</string>
+    <string name="upload_dialog_message">All checklist items will be uploaded to server. Have you checked all items? if not press Cancel to re-check.</string>
+    <string name="upload_dialog_ok_button">Yes, Upload</string>
+    <string name="upload_dialog_cancel_button">Cancel</string>
+</resources>

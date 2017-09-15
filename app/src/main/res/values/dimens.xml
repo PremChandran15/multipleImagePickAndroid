@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Gridview Margins -->
+    <dimen name="gridview_horizontal_margin">5dp</dimen>
+    <dimen name="gridview_vertical_margin">5dp</dimen>
+</resources>

@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "671950510763",
+    "firebase_url": "https://pj-smart-citizen.firebaseio.com",
+    "project_id": "pj-smart-citizen",
+    "storage_bucket": "pj-smart-citizen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671950510763:android:5f9ad59fe2ddad07",
+        "android_client_info": {
+          "package_name": "co.skillslab.locationdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671950510763-ko7bbl20tqi0hti31g0t9mj0pq4trovb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1nYoxUXyaEjX5r9U3ZQ9SjmyfZWGMhxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671950510763:android:87fcb66cc6ca320a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671950510763-ko7bbl20tqi0hti31g0t9mj0pq4trovb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1nYoxUXyaEjX5r9U3ZQ9SjmyfZWGMhxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671950510763:android:482c6bbea84b5a44",
+        "android_client_info": {
+          "package_name": "com.beyondapptechnologies.multipleimagepick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671950510763-ko7bbl20tqi0hti31g0t9mj0pq4trovb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1nYoxUXyaEjX5r9U3ZQ9SjmyfZWGMhxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
